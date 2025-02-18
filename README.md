@@ -6,12 +6,12 @@ The included input files correspond to PDB ID: 5M8Q (protein) and triazole compo
 # How to Use
 To run this code, you can either download the files manually from this repository or use the following command in your terminal:
 
-bash
-git clone https://github.com/your-username/molecular-dynamics-docking.git
+
+`git clone https://github.com/your-username/molecular-dynamics-docking.git`
 Alternatively, in Google Colab, run:
 
-python
-!git clone https://github.com/your-username/molecular-dynamics-docking.git
 
-📜 License
+`!git clone https://github.com/your-username/molecular-dynamics-docking.git`
+
+# License
 MIT License (or specify your preferred license).
