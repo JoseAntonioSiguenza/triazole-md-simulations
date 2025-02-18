@@ -15,4 +15,4 @@ Alternatively, in Google Colab, run:
 `!git clone https://github.com/your-username/molecular-dynamics-docking.git`
 
 # License
-MIT License (or specify your preferred license).
+MIT License
