@@ -17,5 +17,5 @@ Alternatively, in Google Colab, run:
 # License
 MIT License
 
-# Please cite
+# Citation
 Siguenza J, Baykara H. Molecular docking and dynamics simulations of 4-heteroarylidenamino-4,5-dihydro-1H-1,2,4-triazol-5-one derivatives as potential anticancer agents. Comput Biol Chem. 2026 Feb;120(Pt 1):108657. doi: 10.1016/j.compbiolchem.2025.108657. Epub 2025 Aug 29. PMID: 40886663.
